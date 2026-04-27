@@ -1,0 +1,115 @@
+A menu-driven incremental where you rise from a nobody gambler to running a global gambling empire. Everything happens through clean UI panels—no 3D world—just layered systems, stats, and decisions.
+
+Core Loop
+Start with a small amount of chips
+Play minigames (blackjack, slots, etc.)
+Earn money + unlock modifiers
+Invest into passive systems (AI gamblers, auto tables)
+Expand into new games and mechanics
+Eventually become the house, not the player
+Main Systems
+🎰 Casino Games (Active Gameplay)
+
+Each game is its own UI tab with depth, not just RNG spam.
+
+Slots
+Reel upgrades, symbol weighting, jackpot pools
+“Rigging” mechanics (legally questionable upgrades later on)
+Blackjack
+Card counting system (visible stat progression)
+Unlockable decision assists → eventually automated perfect play
+Poker (PvE-style)
+Play against AI personalities with traits
+Bluff mechanic as a timed UI minigame
+Build a “playstyle” (aggressive, passive, unpredictable)
+Roulette
+Probability manipulation upgrades
+Pattern tracking / bias detection systems
+Chess (wildcard minigame)
+Betting on outcomes rather than playing directly
+Upgrade prediction accuracy
+Eventually simulate matches instantly
+📈 Incremental Layer (The Real Game)
+
+This is where it becomes more than a casino simulator.
+
+1. Player Stats
+Luck (affects RNG subtly)
+Intelligence (better decisions / odds visibility)
+Nerve (risk bonuses)
+Reputation (unlocks higher stakes tables)
+2. Passive Income
+Hire NPC gamblers → they play games for you
+Upgrade their skill + risk tolerance
+Assign them to different games
+3. Automation
+Auto-spin slots
+Auto-play blackjack with strategy profiles
+Fully simulated poker tables generating income
+🧠 Meta Progression
+Prestige System: “Cash Out”
+Reset progress for permanent bonuses
+Gain:
+“Influence”
+“Insider Info” (lets you bend odds slightly)
+Corruption System (Late Game)
+
+You stop playing fair.
+
+Bribe dealers
+Adjust RNG behind the scenes
+Skim profits from NPC gamblers
+Risk: getting “investigated” (temporary debuffs/events)
+🏢 Becoming the House
+
+Mid–late game twist:
+
+You stop being the gambler
+You run the casino
+
+New mechanics:
+
+Set house edge
+Design games
+Attract whales (high-risk NPCs)
+Manage risk vs profit
+🎲 Events & Minigame Variants
+Daily tournaments (UI bracket system)
+High-roller tables (big risk, huge reward)
+Limited-time modes
+“All Luck Mode” (pure RNG chaos)
+“Skill Only Mode” (no randomness, just decision making)
+🧩 Collection Systems
+
+Fits your style of “index” mechanics:
+
+Card decks (modifiers)
+Slot symbols
+Poker opponents
+Special “rigging techniques”
+
+Completing sets gives permanent boosts.
+
+⚖️ Interesting Design Twist
+
+Instead of just “more money = better,” introduce:
+
+Risk Curve
+
+Playing safer slows progression heavily
+Playing risky accelerates but can wipe chunks of progress
+
+So players constantly decide:
+
+Do I grind safely, or gamble hard for a spike?
+
+🎯 Why this works well as UI-only
+Casino games naturally fit menus
+Incremental systems thrive in layered UI
+No need for animations → faster gameplay loops
+Easy to scale complexity without visual clutter
+🔥 Expansion Ideas
+Underground casino (illegal mechanics)
+Stock market betting
+Crypto-style volatility minigame
+PvP betting (bet on other players’ outcomes asynchronously)
